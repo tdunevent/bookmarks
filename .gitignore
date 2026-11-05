@@ -1,0 +1,5 @@
+.DS_Store
+uploads/*
+!uploads/.htaccess
+!uploads/.gitkeep
+config/database.local.php
